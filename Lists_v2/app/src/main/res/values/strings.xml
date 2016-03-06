@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-Do List App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="titleText">TO-DO LIST APP!</string>
+    <string name="instructionText">Long-press an item to remove it. Long-press title to remove this list.</string>
+    <string name="addText">ADD</string>
+    <string name="nav_sub_header">My To-Do Lists</string>
+</resources>
